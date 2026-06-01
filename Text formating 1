@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Covid 19</title>
+</head>
+<body>
+    <p>HTML </p><br>
+    <p><b>Bolder-b tag</b></p><br>
+
+    <p><strong>Strong tag</strong></p><br>
+    <p><i> Italic</i></p><br>
+    <p><em>Emphasized</em></p>
+</body>
+</html>
