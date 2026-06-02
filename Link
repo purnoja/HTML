@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Covid 19</title>
+</head>
+<body><br> 
+ <a href="https://www.google.com">Google</a><br>
+<!--New tab-->
+    <a href="https://www.google.com" target="_blank">Google</a>
+</body>
+</html>
