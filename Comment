@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Covid 19</title>
+</head>
+<body><br> 
+  <!--This is heading tag-->
+  <h1>Bangladesh</h1>
+  <!--This is p tag-->
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor animi tempore fugit fuga non quis, minima nesciunt laboriosam praesentium nobis est. Placeat aspernatur pariatur consequuntur laudantium debitis quos repellendus rerum?</p>
+  <!--This is q tag-->
+<q>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita vitae distinctio maiores maxime inventore molestiae incidunt sed suscipit. Nam tempora error tenetur totam eveniet delectus nihil quos quae dolor soluta?</q>
+    
+</body>
+</html>
