@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Introduction</title>
+</head>
+<body>
+    <h1>Linus Torvalds</h1>
+<img src="Linus.png" >
+<p>Linus Torvalds (born 28 December 1969) is a Finnish-American software engineer best known as the creator and lead developer of the Linux kernel, which he launched in 1991. He also created Git, the distributed version control system widely used in software development. Torvalds received the Millennium Technology Prize in 2012 for his contributions to open-source computing, as well as the IEEE Computer Society Computer Pioneer Award (2014) and the IEEE Masaru Ibuka Consumer Electronics Award (2018). He remains a central figure in the development of Linux and open-source software.
+</p>
+<br>
+<h4>Project</h4>
+<ul>
+    <li>Linus Kernel (1991)</li>
+    <li>Git (2005)</li>
+     <li>Subsurface</li>
+     <br>
+     
+</ul>
+<br>
+<h4>Researches</h4>
+<ol>
+    <li>Open-Source Software Development</li>
+    <li>Operating System Design and Development</li>
+    <li>Collaborative Software Engineering</li>
+</ol>
+<br>
+<p><h3>Contact:</h3>015789586</p>
+</body>
+</html>
